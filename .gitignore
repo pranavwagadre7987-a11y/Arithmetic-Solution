@@ -1,0 +1,30 @@
+# Compiled program (Linux/Mac)
+polynomial
+test_polynomial
+
+# Compiled program (Windows)
+polynomial.exe
+test_polynomial.exe
+*.exe
+
+# Object and build files
+*.o
+*.obj
+*.out
+*.a
+bin/
+obj/
+build/
+
+# Code::Blocks / Dev-C++ auto-generated files
+*.layout
+*.depend
+*.Mak
+*.win
+
+# Editor and OS files
+.vscode/*
+!.vscode/c_cpp_properties.json
+.idea/
+.DS_Store
+Thumbs.db
